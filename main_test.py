@@ -24,7 +24,7 @@ def test_main(monkeypatch, capsys):
     assert captured.out == (
         'I will tell you a story, but I need some information first.\n'
         'Here is the story:\n'
-        'Once upon a time there was John, who was a Engineer\n'
+        'Once upon a time there was John, who was a Engineer.\n'
         'On the way to work, John reflected on life.\n'
         'Perhaps John will not be a Engineer forever.\n'
     )
