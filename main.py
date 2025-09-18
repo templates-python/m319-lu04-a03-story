@@ -1,5 +1,6 @@
 def main():
-    # write your code below this line
+    # write your code below this line and remove the line "pass"
+    pass
 
 
 if __name__ == '__main__':
